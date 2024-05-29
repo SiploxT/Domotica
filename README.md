@@ -34,16 +34,21 @@ El resultado debería ser este:
 
 ### P2: Control de un LED
 
-Debemos conseguir controlar un LED a través de el código de la P2, Node-Red y Arduino.
+Debemos conseguir controlar un LED a través de el código de la P2, Node-Red y Arduino.<br/>
 Con la ayuda de esta imagen, podremos entender las conexiones y el flujo de esta practica:
 
 ![ControlLED](https://github.com/SiploxT/Domotica/assets/102182731/e4bafb8e-3cb9-4876-9fbc-59138fd37191)
 
 ### P3: Utilización de un botón
 
-Realizaremos la misma actividad de controlar un LED, pero esta vez con un pulsador que nos facilitará la tarea.
+Realizaremos la misma actividad de controlar un LED, pero esta vez con un pulsador que nos facilitará la tarea.<br/>
 De la misma manera, aquí tenemos la conexión y el flujo:
 
 ![BotonLED](https://github.com/SiploxT/Domotica/assets/102182731/241f65c8-5880-4ba1-be6a-ea57fd4031e5)
 
-### P4: 
+### P4: DHT11
+
+Utilizaremos el DHT11, un sensor de temperatura, para averiguar la temperatura de cualquier ambiente que queramos y enviarla a el propio servidor.<br/>
+En este caso el flujo es algo más complicado, pero funciona de igual manera que los otros:
+
+![FlujoDHT11](https://github.com/SiploxT/Domotica/assets/102182731/d393ca55-e386-4b07-8360-3d20610bd289)
