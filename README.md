@@ -20,3 +20,12 @@ Tras esto, debemos instalar y configurar Node-Red y Mosquitto con los siguientes
 - sudo apt upgrade
 - sudo apt-get install mosquitto mosquitto-clients
 - sudo systemctl enable mosquitto.service (Esto lo haremos para iniciar Mosquitto tras haberlo instalado)
+
+## 📄 Detalles de Actividades
+
+### P1: Conexión ESP32 a servidor MQTT
+
+En esta práctica, debemos conectar el ESP32 a el servidor MQTT, y a través del código de la práctica, comprobar el funcionamiento.<br/>
+El resultado debería ser este:
+
+![MQTTConexión](https://github.com/SiploxT/Domotica/assets/102182731/e75a2a01-2a71-4465-959c-adeadcf73bfe)
