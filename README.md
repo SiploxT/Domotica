@@ -1,5 +1,7 @@
 # 🤖 Proyecto Domotica
 
+![maqueta24](https://github.com/SiploxT/Domotica/assets/102182731/b27580cb-5b0d-42b8-b559-d7470549808e)
+
 ## 📄 Pasos previos
 
 Antes de comenzar el proyecto, es necesario preparar nuestro SO (Sistema Operativo) para instalarlo en el equipo que utilice nuestro servidor:
