@@ -31,3 +31,19 @@ En esta práctica, debemos conectar el ESP32 a el servidor MQTT, y a través del
 El resultado debería ser este:
 
 ![MQTTConexión](https://github.com/SiploxT/Domotica/assets/102182731/e75a2a01-2a71-4465-959c-adeadcf73bfe)
+
+### P2: Control de un LED
+
+Debemos conseguir controlar un LED a través de el código de la P2, Node-Red y Arduino.
+Con la ayuda de esta imagen, podremos entender las conexiones y el flujo de esta practica:
+
+![ControlLED](https://github.com/SiploxT/Domotica/assets/102182731/e4bafb8e-3cb9-4876-9fbc-59138fd37191)
+
+### P3: Utilización de un botón
+
+Realizaremos la misma actividad de controlar un LED, pero esta vez con un pulsador que nos facilitará la tarea.
+De la misma manera, aquí tenemos la conexión y el flujo:
+
+![BotonLED](https://github.com/SiploxT/Domotica/assets/102182731/241f65c8-5880-4ba1-be6a-ea57fd4031e5)
+
+### P4: 
