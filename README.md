@@ -1,7 +1,8 @@
 # 🤖 Proyecto Domotica
 
 ![maqueta24](https://github.com/SiploxT/Domotica/assets/102182731/b27580cb-5b0d-42b8-b559-d7470549808e)
-![EsquemaConexiones](file:///home/a22joelmz/Descargas/EsquemaConexions_bb(1).svg)
+![EsquemaConexiones](https://github.com/SiploxT/Domotica/assets/102182731/25af7997-1ed0-4c55-837d-d99303888cc0)
+
 
 ## 📄 Pasos previos
 
