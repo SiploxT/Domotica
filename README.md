@@ -32,25 +32,29 @@ Tras esto, debemos instalar y configurar Node-Red y Mosquitto con los siguientes
 En esta práctica, debemos conectar el ESP32 a el servidor MQTT, y a través del código de la práctica, comprobar el funcionamiento.<br/>
 El resultado debería ser este:
 
-![MQTTConexión](https://github.com/SiploxT/Domotica/assets/102182731/e75a2a01-2a71-4465-959c-adeadcf73bfe)
+![MQTTConexión](https://github.com/SiploxT/Domotica/assets/102182731/e75a2a01-2a71-4465-959c-adeadcf73bfe)<br/>
+Código: [P1-ESP32](https://github.com/SiploxT/Domotica/blob/main/C%C3%B3digos/P1.ino)
 
 ### P2: Control de un LED
 
 Debemos conseguir controlar un LED a través de el código de la P2, Node-Red y Arduino.<br/>
 Con la ayuda de esta imagen, podremos entender las conexiones y el flujo de esta practica:
 
-![ControlLED](https://github.com/SiploxT/Domotica/assets/102182731/e4bafb8e-3cb9-4876-9fbc-59138fd37191)
+![ControlLED](https://github.com/SiploxT/Domotica/assets/102182731/e4bafb8e-3cb9-4876-9fbc-59138fd37191)<br/>
+Código: [P2-LED](https://github.com/SiploxT/Domotica/blob/main/C%C3%B3digos/P2.ino)
 
 ### P3: Utilización de un botón
 
 Realizaremos la misma actividad de controlar un LED, pero esta vez con un pulsador que nos facilitará la tarea.<br/>
 De la misma manera, aquí tenemos la conexión y el flujo:
 
-![BotonLED](https://github.com/SiploxT/Domotica/assets/102182731/241f65c8-5880-4ba1-be6a-ea57fd4031e5)
+![BotonLED](https://github.com/SiploxT/Domotica/assets/102182731/241f65c8-5880-4ba1-be6a-ea57fd4031e5)<br/>
+Código: [P3-Boton](https://github.com/SiploxT/Domotica/blob/main/C%C3%B3digos/P3.ino)
 
 ### P4: DHT11
 
 Utilizaremos el DHT11, un sensor de temperatura, para averiguar la temperatura de cualquier ambiente que queramos y enviarla a el propio servidor.<br/>
 En este caso el flujo es algo más complicado, pero funciona de igual manera que los otros:
 
-![FlujoDHT11](https://github.com/SiploxT/Domotica/assets/102182731/d393ca55-e386-4b07-8360-3d20610bd289)
+![FlujoDHT11](https://github.com/SiploxT/Domotica/assets/102182731/d393ca55-e386-4b07-8360-3d20610bd289)<br/>
+Código: [P4-DH11](https://github.com/SiploxT/Domotica/blob/main/C%C3%B3digos/flowsP4.json)
