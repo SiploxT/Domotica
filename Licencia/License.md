@@ -1,1 +1,1 @@
-[Domotica](https://github.com/SiploxT/Domotica) © 2024 by [SiploxT](https://github.com/SiploxT/) is licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1)
+[Domotica](https://github.com/SiploxT/Domotica) © 2024 by [SiploxT](https://github.com/SiploxT/) is licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
